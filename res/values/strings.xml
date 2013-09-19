@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StudyRoom</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="questionsURL">http://192.168.0.16:3000/questions</string>
+    
+     <string name="Authorization">http://192.168.0.16:3000/api/v1/questions</string>
+
+</resources>
